@@ -3,7 +3,7 @@
 - 👀 I’m interested in building elegant and efficient iOS applications.
 - 🌱 I’m currently learning SwiftUI, Combine, and exploring best practices in mobile architecture (MVVM, VIPER).
 - 💞️ I’m looking to collaborate on open-source iOS projects, especially those involving Swift or SwiftUI.
-- 📫 How to reach me: [vedrewadkar@gmail.com](mailto:vedrewadkar@gmail.com) | [LinkedIn](https://www.linkedin.com/in/vedant-rewadkar-496606236/)
+- 📫 How to reach me: [vedrevadkar@gmail.com](mailto:vedrevadkar@gmail.com) | [LinkedIn](https://www.linkedin.com/in/vedant-rewadkar-496606236/)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I started coding by building simple apps to automate my daily tasks—and got hooked ever since!
 
